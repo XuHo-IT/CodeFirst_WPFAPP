@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PRN212\\DemoCodeFirst\\DemoCodeFirst_Lab212\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07289A9D-C2E3-4A03-BE35-46225627E3AA}|ManageCategoriespp\\ManageCategoriesApp.csproj|e:\\prn212\\democodefirst\\democodefirst_lab212\\managecategoriespp\\data\\ef\\mystockdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07289A9D-C2E3-4A03-BE35-46225627E3AA}|ManageCategoriespp\\ManageCategoriesApp.csproj|solutionrelative:managecategoriespp\\data\\ef\\mystockdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07289A9D-C2E3-4A03-BE35-46225627E3AA}|ManageCategoriespp\\ManageCategoriesApp.csproj|e:\\prn212\\democodefirst\\democodefirst_lab212\\managecategoriespp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{07289A9D-C2E3-4A03-BE35-46225627E3AA}|ManageCategoriespp\\ManageCategoriesApp.csproj|solutionrelative:managecategoriespp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07289A9D-C2E3-4A03-BE35-46225627E3AA}|ManageCategoriespp\\ManageCategoriesApp.csproj|e:\\prn212\\democodefirst\\democodefirst_lab212\\managecategoriespp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07289A9D-C2E3-4A03-BE35-46225627E3AA}|ManageCategoriespp\\ManageCategoriesApp.csproj|solutionrelative:managecategoriespp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyStockDBContext.cs",
+              "DocumentMoniker": "E:\\PRN212\\DemoCodeFirst\\DemoCodeFirst_Lab212\\ManageCategoriespp\\Data\\EF\\MyStockDBContext.cs",
+              "RelativeDocumentMoniker": "ManageCategoriespp\\Data\\EF\\MyStockDBContext.cs",
+              "ToolTip": "E:\\PRN212\\DemoCodeFirst\\DemoCodeFirst_Lab212\\ManageCategoriespp\\Data\\EF\\MyStockDBContext.cs",
+              "RelativeToolTip": "ManageCategoriespp\\Data\\EF\\MyStockDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:10:27.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\PRN212\\DemoCodeFirst\\DemoCodeFirst_Lab212\\ManageCategoriespp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ManageCategoriespp\\MainWindow.xaml",
+              "ToolTip": "E:\\PRN212\\DemoCodeFirst\\DemoCodeFirst_Lab212\\ManageCategoriespp\\MainWindow.xaml",
+              "RelativeToolTip": "ManageCategoriespp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-26T11:10:05.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\PRN212\\DemoCodeFirst\\DemoCodeFirst_Lab212\\ManageCategoriespp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ManageCategoriespp\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\PRN212\\DemoCodeFirst\\DemoCodeFirst_Lab212\\ManageCategoriespp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ManageCategoriespp\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:10:02.892Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
