@@ -7,7 +7,7 @@
 namespace ManageCategoriesApp.Migrations
 {
     /// <inheritdoc />
-    public partial class Initial : Migration
+    public partial class intitial : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -30,9 +30,9 @@ namespace ManageCategoriesApp.Migrations
                 columns: new[] { "CategoryID", "CategoryName" },
                 values: new object[,]
                 {
-                    { 1, "Beverages" },
-                    { 2, "Condiments" },
-                    { 3, "Confections" }
+                    { 1, "Xuho" },
+                    { 2, "Xuan Hoa" },
+                    { 3, "De180175" }
                 });
         }
 

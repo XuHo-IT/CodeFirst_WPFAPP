@@ -42,17 +42,17 @@ namespace ManageCategoriesApp.Migrations
                         new
                         {
                             CategoryID = 1,
-                            CategoryName = "Beverages"
+                            CategoryName = "Xuho"
                         },
                         new
                         {
                             CategoryID = 2,
-                            CategoryName = "Condiments"
+                            CategoryName = "Xuan Hoa"
                         },
                         new
                         {
                             CategoryID = 3,
-                            CategoryName = "Confections"
+                            CategoryName = "DE180175"
                         });
                 });
 #pragma warning restore 612, 618
